@@ -2,7 +2,9 @@
 
 A beginner-friendly static website showcasing AI-generated artwork and contact information. Built with pure HTML & CSS as a learning project.
 
-![Website Preview](https://via.placeholder.com/800x400?text=AI+Art+Portfolio+Preview) <!-- Add your own screenshot later -->
+![Website Preview](https://github.com/mahatabul/art_web/blob/main/screenshots/Screenshot%202025-03-02%20at%2022-10-54%20Document.png?raw=true)
+![Website Preview](https://github.com/mahatabul/art_web/blob/main/screenshots/Screenshot%202025-03-02%20at%2022-11-03%20Document.png?raw=true)
+
 
 ## Features ✨
 - Responsive design that works on mobile and desktop
